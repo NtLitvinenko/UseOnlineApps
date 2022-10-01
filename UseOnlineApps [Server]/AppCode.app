@@ -9,4 +9,5 @@ def install(package):
 
 # If you need install module(s) use install
 # example: install("module name")
+# Pre installed modules: tkinter, sys, os, etc standart python libaries
 
